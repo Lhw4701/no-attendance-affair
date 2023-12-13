@@ -1,6 +1,6 @@
 # flutter_noti
 
-A new Flutter project.
+A new Flutter project for no-attendance-affair dashboard.
 
 ## Getting Started
 
